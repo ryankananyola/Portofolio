@@ -409,7 +409,7 @@ footer p {
     }
 
     .featured .item .details p,
-    .works-list .item .details p {
+    .project-list .item .details p {
         width: 100%;
     }
 
@@ -499,35 +499,35 @@ footer p {
     }
 
     .featured .item,
-    .works-list .item {
+    .project-list .item {
         flex-direction: column;
         padding: 0 20px 30px;
     }
 
     .featured .item img,
-    .works-list .item img {
+    .project-list .item img {
         width: 100%;
         height: auto;
     }
 
     .featured .item .details h3,
-    .works-list .details .item h3 {
+    .project-list .details .item h3 {
         font-size: 24px;
         margin-bottom: 12px;
     }
 
     .featured .item .details .item-info .year-badge,
-    .works-list .item .details .item-info .year-badge {
+    .project-list .item .details .item-info .year-badge {
         font-size: 12px;
     }
 
     .featured .item .details .item-info h4,
-    .works-list .item .details .item-info h4 {
+    .project-list .item .details .item-info h4 {
         font-size: 15px;
     }
 
     .featured .item .details p,
-    .works-list .item .details p {
+    .project-list .item .details p {
         font-size: 14px;
     }
 
@@ -643,28 +643,28 @@ footer p {
     }
 
     .featured .item,
-    .works-list .item {
+    .project-list .item {
         padding: 0 10px 20px;
     }
 
     .featured .item .details h3,
-    .works-list .details .item h3 {
+    .project-list .details .item h3 {
         font-size: 20px;
         margin-bottom: 8px;
     }
 
     .featured .item .details .item-info .year-badge,
-    .works-list .item .details .item-info .year-badge {
+    .project-list .item .details .item-info .year-badge {
         font-size: 10px;
     }
 
     .featured .item .details .item-info h4,
-    .works-list .item .details .item-info h4 {
+    .project-list .item .details .item-info h4 {
         font-size: 12px;
     }
 
     .featured .item .details p,
-    .works-list .item .details p {
+    .project-list .item .details p {
         font-size: 12px;
     }
 
