@@ -172,7 +172,7 @@ nav .nav-links a.selected{
 }
 
 .featured .item,
-.works-list .item{
+.project-list .item{
     display: flex;
     gap: 30px;
     margin-bottom: 30px;
@@ -181,20 +181,20 @@ nav .nav-links a.selected{
 }
 
 .featured .item img,
-.works-list .item img{
+.project-list .item img{
     width: 320px;
     height: 200px;
     border-radius: 6px;
 }
 
 .featured .item .details h3,
-.works-list .item h3{
+.project-list .item h3{
     font-size: 30px;
     margin-bottom: 16px;
 }
 
 .featured .item .details .item-info,
-.works-list .item .details .item-info{
+.project-list .item .details .item-info{
     display: flex;
     align-items: center;
     gap: 20px;
@@ -202,7 +202,7 @@ nav .nav-links a.selected{
 }
 
 .featured .item .details .item-info .year-badge,
-.works-list .item .details .item-info .year-badge,
+.project-list .item .details .item-info .year-badge,
 .content .work-info .year-badge{
     background-color: #303f9f;
     padding: 2px 14px;
@@ -213,13 +213,13 @@ nav .nav-links a.selected{
 }
 
 .featured .item .details .item-info h4,
-.works-list .item .details .item-info h4{
+.project-list .item .details .item-info h4{
     color: #8695a4;
     font-size: 18px;
 }
 
 .featured .item .details p,
-.works-list .item .details p{
+.project-list .item .details p{
     width: 700px;
     text-align: justify;
 }
